@@ -1,3 +1,3 @@
-# SurvivorBird
+# Flying Bird in Java
 
-#This is a libGdx starter project compatible with the latest version of Android Studio tools.
+In this game, to prevent, to prevent, to pass without touching the obstacles. It is a simple interface game with Java. It is a game made with the Libgdx library.
